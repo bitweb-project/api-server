@@ -29,7 +29,7 @@ $ pip3 install -r requirements.txt
 $ python3 app.py
 ```
 
-All request should be send to this endpoint: `https://api.bitwebcore.org/`
+All request should be send to this endpoint: `https://api.bitwebcore.net/`
 
 Responce have following fields:
 
