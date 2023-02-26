@@ -44,7 +44,7 @@ def supply(height):
 
     return {
         "halvings": int(halvings_count),
-        "supply": int(supply - 10000000000 + 258000000000000)
+        "supply": int(supply - 15000000000 + 1200005000000000)
     }
 
 def satoshis(value):
